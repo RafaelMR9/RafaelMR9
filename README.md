@@ -1,7 +1,8 @@
-## Olá! Eu sou o Rafael Ribeiro 👋
-<h3>Site Pessoal: https://rafael-dev.vercel.app/</h2>
+# Olá! Eu sou o Rafael Ribeiro 👋 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-853853220/)
+## Site Pessoal: https://rafael-dev.vercel.app/
+
+<br/>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-853853220/)
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMR9&show_icons=true&theme=radical)
 
