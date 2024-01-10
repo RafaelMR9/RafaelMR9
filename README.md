@@ -12,4 +12,4 @@ Sou proficiente em várias linguagens de programação e frameworks. No front-en
 Minha jornada profissional é impulsionada por uma busca contínua de crescimento. Estou sempre aberto a colaborações e projetos inovadores que desafiem minhas habilidades e contribuam para o avanço da tecnologia.
 
 ### 📫 Conecte-se Comigo
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-853853220/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-developer/)
