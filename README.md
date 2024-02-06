@@ -1,6 +1,3 @@
-
-![banner](https://github.com/RafaelMR9/RafaelMR9/assets/24281310/5930f677-a2ee-4bd4-a1f8-128d775f20f9)
-
 # Olá! Eu sou Rafael Ribeiro 👋
 
 Desenvolvedor entusiasmado com a criação de soluções web inovadoras. Sou proficiente em várias tecnologias, desde o design de front-end até o desenvolvimento de back-end complexo.
