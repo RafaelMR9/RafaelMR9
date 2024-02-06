@@ -2,6 +2,8 @@
 
 Desenvolvedor entusiasmado com a criação de soluções web inovadoras. Sou proficiente em várias tecnologias, desde o design de front-end até o desenvolvimento de back-end complexo.
 
+![banner (1)](https://github.com/RafaelMR9/RafaelMR9/assets/24281310/c5c7f130-da0b-4c38-b945-2b5d436d15a9)
+
 ### 🌐 Visite Meu Site Pessoal: [rafael-dev.vercel.app](https://rafael-dev.vercel.app/)
 
 ### 🚀 Minhas Habilidades Técnicas
